@@ -1,3 +1,5 @@
+package demo.data;
+
 import demo.data.PlainTextData;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
