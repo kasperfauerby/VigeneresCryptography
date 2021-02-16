@@ -1,7 +1,14 @@
 package demo.data;
 
-import java.io.FileReader;
-
 public class PlainTextData {
 
+    public boolean setUri(String s) {
+        // Creates a class attribute of type 'File' and checks that path is valid.
+        return true;
+    }
+
+    public String read() {
+        // returns content of 'File'.
+        return "";
+    }
 }
